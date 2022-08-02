@@ -1,14 +1,10 @@
 # Assignment-2
 
-![LCO](https://img.shields.io/badge/LCO-Hitesh--Choudhary-brightgreen)
+![LCO](https://img.shields.io/badge/LCO-Hitesh--Choudhary-brightgreen)  ![iNeuron](https://img.shields.io/badge/iNeuron-FullStack--JS-brightgreen)  ![CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-![iNeuron](https://img.shields.io/badge/iNeuron-FullStack--JS-brightgreen)
+![Live-Class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--2-blue)  ![MERN-STACK](https://img.shields.io/badge/MERN--STACK-DEVELOPER-red)
 
-![CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-![Live-Class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--2-blue)
-
-![MERN-STACK](https://img.shields.io/badge/MERN--STACK-DEVELOPER-red)
 
 # Time taken to finish this project
 
